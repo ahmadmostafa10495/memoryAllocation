@@ -1,0 +1,9 @@
+E:\coding space\c++\MemoryAllocation\bin\Debug\MemoryAllocation.exe.config
+E:\coding space\c++\MemoryAllocation\bin\Debug\MemoryAllocation.exe
+E:\coding space\c++\MemoryAllocation\bin\Debug\MemoryAllocation.pdb
+E:\coding space\c++\MemoryAllocation\obj\Debug\MemoryAllocation.csprojResolveAssemblyReference.cache
+E:\coding space\c++\MemoryAllocation\obj\Debug\MemoryAllocation.MemoryAllocation.resources
+E:\coding space\c++\MemoryAllocation\obj\Debug\MemoryAllocation.Properties.Resources.resources
+E:\coding space\c++\MemoryAllocation\obj\Debug\MemoryAllocation.csproj.GenerateResource.Cache
+E:\coding space\c++\MemoryAllocation\obj\Debug\MemoryAllocation.exe
+E:\coding space\c++\MemoryAllocation\obj\Debug\MemoryAllocation.pdb
